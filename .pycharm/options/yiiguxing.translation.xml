@@ -1,0 +1,49 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1676219160172" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="425" />
+    <histories>
+      <item value="Like ``.fetch_related()`` on instance, but works on all objects in QuerySet." />
+      <item value="Annotate result with aggregation or function result." />
+      <item value="Medicines" />
+      <item value="You can't create cashiers login without creating a cashier" />
+      <item value="Pharmacy store for the pharmacy management system You can't create cashiers login without creating a cashier" />
+      <item value="исправил неточность" />
+      <item value="исправил " />
+      <item value="added redirect to docs" />
+      <item value="add redirect to docs" />
+      <item value="не нужные константы" />
+      <item value="не нужные ко" />
+      <item value="не нужные " />
+      <item value="Models paths to initialise" />
+      <item value="разделены функции для " />
+      <item value="list of url of users photos" />
+      <item value="TypeError: list indices must be integers or slices, not str" />
+      <item value="medicine providers" />
+      <item value="поставщики" />
+      <item value="постав" />
+      <item value="Providers" />
+      <item value="Medicine" />
+      <item value="настройка структуры проекта" />
+      <item value="настройка стру" />
+      <item value="Pharmacy store for the pharmacy management system" />
+      <item value="'r' open for reading (default) 'w' open for writing, truncating the file first 'x' create a new file and open it for writing 'a' open for writing, appending to the end of the file if it exists 'b' binary mode 't' text mode (default) '+' open a disk file for updating (reading and writing) 'U' universal newline mode (deprecated)" />
+      <item value="mode is an optional string that specifies the mode in which the file is opened. It defaults to 'r' which means open for reading in text mode. Other common values are 'w' for writing (truncating the file if it already exists), 'x' for creating and writing to a new file, and 'a' for appending (which on some Unix systems, means that all writes append to the end of the file regardless of the current seek position). In text mode, if encoding is not specified the encoding used is platform dependent: locale.getpreferredencoding(False) is called to get the current locale encoding. (For reading and writing raw bytes use binary mode and leave encoding unspecified.) The available modes are:" />
+      <item value="&quot;&quot;&quot;Sets a sticky timeout to implicitly wait for an element to be found, or a command to complete. This method only needs to be called one time per session. To set the timeout for calls to execute_async_script, see set_script_timeout." />
+      <item value="Audaces fortuna juvat." />
+      <item value="real signature unknown; restored from __doc__" />
+      <item value="Child is launched. Close the parent's copy of those pipe handles that only the child should have open. You need to make sure that no handles to the write end of the output pipe are maintained in this process or else the pipe will not close when the child process exits and the ReadFile will hang." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="20" />
+        <entry key="LATIN" value="1" />
+        <entry key="RUSSIAN" value="20" />
+      </map>
+    </option>
+  </component>
+</application>

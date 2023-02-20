@@ -1,0 +1,9 @@
+com.github.copilot
+com.mallowigi.idea
+com.almightyalpaca.intellij.plugins.discord
+com.mallowigi
+mobi.hsz.idea.gitignore
+izhangzhihao.rainbow.brackets
+ru.adelf.idea.dotenv
+ru.meanmail.plugin.requirements
+cn.yiiguxing.plugin.translate
